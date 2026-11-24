@@ -1,0 +1,6 @@
+{
+  "name": "Dayboard — Task & Priority Manager",
+  "description": "A clean, responsive to-do list and daily task management dashboard with full CRUD operations, filtering, sorting, and persistent LocalStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
